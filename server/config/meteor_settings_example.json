@@ -1,8 +1,8 @@
 {
-  "mailUrl": "",
+  "mailUrl": "smtp://helder%40muraldecaronas.org:ukhg5hgWZGGKoBNw8LQycA@smtp.mandrillapp.com:587/",
   "public": {
     "site": {
-      "siteName": "Rideboard Demo",
+      "siteName": "Mural de Caronas",
       "emailValidationRegExp": "(@unicamp\\.br$)|(@(\\w+\\.)+unicamp\\.br$)"
     }
   }
